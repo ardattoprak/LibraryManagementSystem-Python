@@ -1,0 +1,8 @@
+13284737X,Data Structures and Algorithm Analysis in C++,Mark Weiss,T
+1449355730,Learning Python 5th Edition,Mark Lutz,F
+9471519437,University Physics,Hugh Young,F
+8137461562,Thomas Calculus 13th Edition,Joel Hass,F
+7246785435,Calculus,James Stewart,F
+6342859610,Calculus,Michael Spivak,T
+321321,Hırsız Mı Kahraman Mı,Elif Öz Soyman,F
+1905,Galatasaray,Fatih Terim,F
